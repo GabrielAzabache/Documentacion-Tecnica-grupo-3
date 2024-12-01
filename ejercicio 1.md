@@ -5,5 +5,3 @@
 
 ## Ejercicio 1: 
 
-## Ejercicio 2: 
-El package.json de su proyecto es 
