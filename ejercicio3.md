@@ -26,7 +26,12 @@ Copiar código
   ``` bash
   tsc --init
   ```
+
+![](imagenes/jason.jpg)
+
 Esto generará un archivo de configuración llamado tsconfig.json.
+
+![](imagenes/tsconfig.jpg)
  
 ### Ejemplo de configuración (tsconfig.json):
  
