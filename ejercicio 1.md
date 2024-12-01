@@ -1,4 +1,4 @@
-# Documentacion-Tecnica-grupo-3
+# Inicio
 ## Estudiantes:
 - Mercado Azabache
 - Fernandez Malco Diego
