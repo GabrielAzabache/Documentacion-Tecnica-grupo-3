@@ -14,8 +14,12 @@ Copiar código
   ``` bash
   tsc -v
   ```
-Debería aparecer una versión como Version 5.2.2.
-Configurar TypeScript
+Debería aparecer una versión como Version 5.7.2.
+
+![](ins-type.png.jpg)
+
+## Configurar TypeScript
+
 ### Navega a tu proyecto y ejecuta:
  
 Copiar código
