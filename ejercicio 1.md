@@ -19,6 +19,8 @@ Copiar código
 ``` bash
 node -v
 ```
+![](https://github.com/GabrielAzabache/Documentacion-Tecnica-grupo-3/blob/main/imagenes/image.png)
+
 
 Si devuelve un número de versión como v18.17.0, Node.js ya está instalado.
  
