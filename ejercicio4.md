@@ -31,4 +31,5 @@ Para realizar una llamada con API desde OpenWeather puede haber varias manera, p
 
 10) Seleccionamos la ciudad de preferencia, y ahora pasemos a la ultima parte
 11) Para hacer una llamada tenemos que copiar la siguiente URL: https://api.openweathermap.org/data/2.5/weather?id=(ID de la ciudad seleccionada)5&appid=(nuestro API KEYS) y nos debe salir un resultado similar.
-    
+
+![](imagenes/trujillo6.jpg)
