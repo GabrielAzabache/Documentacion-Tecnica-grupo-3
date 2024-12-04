@@ -72,7 +72,7 @@ body {
     background: #ffffff;
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 8px #0000001a;
     max-width: 400px;
     width: 100%;
     margin: 20px;
